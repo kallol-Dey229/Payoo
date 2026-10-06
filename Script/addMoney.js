@@ -9,7 +9,7 @@ document.getElementById('add-money-btn')
             return;
         }
 
-//
+
         // step - 2
         const accNo = getValueFromInput('bank-account-number');
 
