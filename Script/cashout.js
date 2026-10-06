@@ -24,7 +24,7 @@ document.getElementById('cashout-btn')
 
      // 5. Get the pin and verify
      const pin = getValueFromInput('cashout-pin');
-//
+
     if(pin === '1234'){
             // 5-1. true:: show an alert > set balance
             alert('cashout successful');
