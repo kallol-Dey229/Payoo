@@ -7,7 +7,7 @@ function getValueFromInput(id) {
 
     return value;
 }
-//
+
 // machine -> balance
 
 function getBalance() {
