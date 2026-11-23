@@ -8,7 +8,6 @@ document.getElementById('add-money-btn')
             alert('Please select a bank');
             return;
         }
-//
 
         
         // step - 2
